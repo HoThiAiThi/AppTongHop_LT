@@ -5,10 +5,13 @@
       <map>
         <entry key="..\:/HK1(2022_2023)/Android_Studio/AppTongHop_LT/app/src/main/res/drawable-v24/border_background.xml" value="0.1425" />
         <entry key="..\:/HK1(2022_2023)/Android_Studio/AppTongHop_LT/app/src/main/res/drawable-v24/border_button.xml" value="0.1425" />
+        <entry key="..\:/HK1(2022_2023)/Android_Studio/AppTongHop_LT/app/src/main/res/drawable-v24/ic_mail.xml" value="0.1425" />
         <entry key="..\:/HK1(2022_2023)/Android_Studio/AppTongHop_LT/app/src/main/res/drawable-v24/ic_person.xml" value="0.1425" />
+        <entry key="..\:/HK1(2022_2023)/Android_Studio/AppTongHop_LT/app/src/main/res/layout/activity_fragment_profile.xml" value="0.25416666666666665" />
         <entry key="..\:/HK1(2022_2023)/Android_Studio/AppTongHop_LT/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/HK1(2022_2023)/Android_Studio/AppTongHop_LT/app/src/main/res/layout/activity_signin.xml" value="0.24010416666666667" />
         <entry key="..\:/HK1(2022_2023)/Android_Studio/AppTongHop_LT/app/src/main/res/layout/activity_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/HK1(2022_2023)/Android_Studio/AppTongHop_LT/app/src/main/res/layout/fragment_list.xml" value="0.25416666666666665" />
         <entry key="..\:/HK1(2022_2023)/Android_Studio/AppTongHop_LT/app/src/main/res/menu/menu_navigation.xml" value="0.25416666666666665" />
       </map>
     </option>
